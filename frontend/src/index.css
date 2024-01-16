@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html {
+  height: 100vh;
+  font-size: x-large;
+}
+body {
+  display: flex;
+  place-content: center;
+  place-items: center;
+  margin: 0;
+  height: 100vh;
+}
